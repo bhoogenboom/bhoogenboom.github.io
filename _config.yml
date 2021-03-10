@@ -97,7 +97,7 @@ author:
   name             : "Bouke Hoogenboom"
   avatar           : "/assets/images/bio-photo-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Run. Lift. Code."
-  location         : "The Netherlands"
+  location         : "Lemelerveld, NL"
   # email          : "BHoogenboom@outlook.com"
   links:
     - label: "Email"
