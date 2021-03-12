@@ -2,14 +2,14 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "RUN"
+  - title: "Run."
     url: /run/
-  - title: "LIFT"
+  - title: "Lift."
     url: /lift/
-  - title: "CODE"
+  - title: "Code."
     url: /Code/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
