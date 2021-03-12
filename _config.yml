@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CLOUD REBEL"
+title                    : "Cloud Rebel"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Run. Kift. Code." # site tagline that appears below site title in masthead
 name                     : "Bouke Hoogenboom"
 description              : "Run. Lift. Code."
 url                      : "https://cloudrebel.nl" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
