@@ -139,7 +139,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - ["_pages"]
+  - ["_pages/run.md"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
