@@ -277,9 +277,9 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: page
     values:
-      layout: single
+      layout: page
       author_profile: true
       read_time: true
       comments: # true
