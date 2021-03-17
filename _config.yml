@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Cloud Rebel"
-title_separator          : "#"
+title_separator          : "@"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bouke Hoogenboom"
 description              : "Run. Lift. Code."
@@ -267,6 +267,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
