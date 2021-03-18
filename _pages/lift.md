@@ -3,6 +3,7 @@ permalink: /lift/
 title: "Lift."
 layout: home
 author_profile: true
+breadcrumbs: false
 ---
 
 # Test.

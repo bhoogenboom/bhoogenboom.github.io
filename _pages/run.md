@@ -3,6 +3,7 @@ permalink: /run/
 title: "Run."
 layout: home
 author_profile: true
+breadcrumbs: false
 ---
 
 Test...
