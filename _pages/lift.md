@@ -1,7 +1,7 @@
 ---
 permalink: /lift/
 title: "Lift."
-layout: default
+layout: home
 author_profile: false
 ---
 
