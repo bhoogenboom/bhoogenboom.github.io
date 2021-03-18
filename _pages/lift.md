@@ -1,8 +1,8 @@
 ---
 permalink: /lift/
 title: "Lift."
-layout: single
-author_profile: false
+layout: home
+author_profile: true
 ---
 
 # Test.

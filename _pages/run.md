@@ -1,7 +1,7 @@
 ---
 permalink: /run/
 title: "Run."
-layout: archive
+layout: home
 author_profile: true
 ---
 
