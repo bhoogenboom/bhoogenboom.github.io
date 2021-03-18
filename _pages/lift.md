@@ -1,7 +1,7 @@
 ---
 permalink: /lift/
-# title: "Lift."
-layout: archive
+title: "Lift."
+layout: collection
 author_profile: false
 ---
 
