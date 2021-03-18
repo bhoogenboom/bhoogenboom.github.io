@@ -1,7 +1,7 @@
 ---
 permalink: /lift/
 title: "Lift."
-layout: default
+layout: splash
 author_profile: false
 ---
 
