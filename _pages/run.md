@@ -1,7 +1,7 @@
 ---
 permalink: /run/
 title: "Run."
-layout: home
+layout: splash
 author_profile: true
 breadcrumbs: false
 ---
