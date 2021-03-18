@@ -1,8 +1,8 @@
 ---
 permalink: /lift/
 title: "Lift."
-layout: splash
-author_profile: true
+layout: archive
+author_profile: false
 ---
 
 # Test.
