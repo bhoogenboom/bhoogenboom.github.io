@@ -2,7 +2,7 @@
 permalink: /lift/
 title: "Lift."
 layout: splash
-author_profile: false
+author_profile: true
 ---
 
 # Test.
