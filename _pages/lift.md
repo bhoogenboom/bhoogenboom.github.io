@@ -1,6 +1,6 @@
 ---
 permalink: /lift/
-title: "Lift."
+# title: "Lift."
 layout: archive
 author_profile: false
 ---
@@ -9,8 +9,7 @@ author_profile: false
 ## Test..
 ### Test...
 #### Test....
-##### Test.....
-###### Test......
+
 
 
 ---
