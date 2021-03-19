@@ -2,8 +2,7 @@
 permalink: /lift/
 title: "Lift."
 layout: categories
-author_profile: true
-breadcrumbs: false
+    breadcrumbs: false
 ---
 
 # Test.
