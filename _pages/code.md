@@ -1,7 +1,7 @@
 ---
-permalink: /run/
-title: "Run."
-# layout: splash
+permalink: /code/
+title: "Code."
+layout: splash
 header:
 #   overlay_color: "#000"
 #   overlay_filter: "0.5"
