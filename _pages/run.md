@@ -1,11 +1,11 @@
 ---
 permalink: /run/
 title: "Run."
-layout: single
+layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/BH_Berg.jpg
+  overlay_image: /assets/images/BH-run-berg.jpg
 ---
 
 Test...
