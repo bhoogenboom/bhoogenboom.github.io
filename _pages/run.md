@@ -1,13 +1,11 @@
 ---
 permalink: /run/
 title: "Run."
-layout: splash
-date: 2016-03-23T11:48:41-04:00
+layout: single
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/BH_Berg.jpg
-  teaser: /assets/images/BH_Berg.jpg
 ---
 
 Test...
