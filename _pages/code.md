@@ -2,7 +2,7 @@
 permalink: /code/
 title: "Code."
 header:
-  overlay_image: /assets/images/ai-code.jpg
+  overlay_image: /assets/images/code.jpg
 ---
 
 Test....
