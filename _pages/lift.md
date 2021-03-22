@@ -1,8 +1,8 @@
 ---
 permalink: /lift/
 title: "Lift."
-layout: categories
-breadcrumbs: false
+header:
+  overlay_image: /assets/images/BH-run-berg1.jpg
 ---
 
 # Test.
