@@ -2,7 +2,7 @@
 permalink: /lift/
 title: "Lift."
 header:
-  overlay_image: /assets/images/lift3.jpg
+  overlay_image: /assets/images/lift-teaser.jpg
 ---
 
 # Test.
