@@ -1,7 +1,7 @@
 ---
 title:  "My first post"
 header:
-  teaser: "/assets/images/500x300.png"
+  teaser: "/assets/images/code-teaser.jpg"
 categories: 
   - Jekyll
 tags:

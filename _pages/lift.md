@@ -18,5 +18,3 @@ header:
 - [Azure](https://azure.com/)
 
 ---
-
-CloudRebel is designed, developed, and maintained by Bouke Hoogenboom.
