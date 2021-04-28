@@ -1,5 +1,6 @@
 ---
 title:  "My first post"
+classes: wide
 header:
   teaser: "/assets/images/code-teaser.jpg"
 categories: 
