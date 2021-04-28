@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "My first post"
 classes: wide
 header:
