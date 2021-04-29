@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: home
 entries_layout: grid
 permalink: /run/
 title: "Run."
