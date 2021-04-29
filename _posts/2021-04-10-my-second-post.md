@@ -3,9 +3,9 @@ title:  "My second post"
 header:
   teaser: "/assets/images/code-teaser.jpg"
 categories: 
-  - Azure
+  - Code
 tags:
-  - Test
+  - Azure
 ---
 
 Azure test post is a fact!

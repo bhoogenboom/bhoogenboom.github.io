@@ -1,4 +1,6 @@
 ---
+layout: categories
+entries_layout: grid
 permalink: /run/
 title: "Run."
 header:

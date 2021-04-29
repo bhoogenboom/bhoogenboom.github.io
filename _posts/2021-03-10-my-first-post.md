@@ -3,9 +3,9 @@ title:  "My first post"
 header:
   teaser: "/assets/images/code-teaser.jpg"
 categories: 
-  - Jekyll
+  - Code
 tags:
-  - update
+  - Jekyll
 ---
 
 First Post is a fact!
