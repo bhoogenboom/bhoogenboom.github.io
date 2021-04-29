@@ -282,6 +282,7 @@ defaults:
     values:
       layout: splash
       classes: wide
+      entries_layout: grid
       author_profile: false
       header:
         overlay_color: "#000"
