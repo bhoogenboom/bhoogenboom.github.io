@@ -280,6 +280,7 @@ defaults:
       type: pages
     values:
       layout: splash
+      classes: wide
       author_profile: false
       header:
         overlay_color: "#000"
