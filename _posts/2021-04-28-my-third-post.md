@@ -3,7 +3,7 @@ title:  "My third post"
 header:
   teaser: "\assets\images\BH-run-berg-teaser.jpg"
 categories: 
-  - Run
+  - Run.
 tags:
   - Me
 ---
