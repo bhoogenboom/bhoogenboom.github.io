@@ -1,5 +1,5 @@
 ---
-title:  "My second post"
+title:  "Azure post"
 header:
   teaser: "/assets/images/code-teaser.jpg"
 categories: 
@@ -9,4 +9,3 @@ tags:
 ---
 
 Azure test post is a fact!
-

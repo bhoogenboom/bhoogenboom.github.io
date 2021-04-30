@@ -9,4 +9,3 @@ tags:
 ---
 
 Azure test post is a fact!
-
