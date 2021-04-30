@@ -1,7 +1,7 @@
 ---
 title:  "My first post"
 header:
-  teaser: "/assets/images/code-logo-teaser.jpg"
+  teaser: "/assets/images/Binary-Code-500x300.jpg"
 categories: 
   - Code
 tags:
