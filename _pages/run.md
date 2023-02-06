@@ -9,7 +9,7 @@ header:
 
 # I Love to run!
 
-Unfortunately I'm still suffering from an knee injury and hopefully I can soon train in the gym again (Covid-19 times) to work up my muscles and regain strength in my quads again. So I hope I can really run distances again, so far I'll managed to run 3K-4K but still notice to much pressure on the knee.
+Upcomming Run's being the 'Station-to-Station' run between the train station in Ommen and Dalfsen. This run is 10 EM (16,1 KM) at the 31ste of May and just mmore then a week later my first 'Half Marathon - Zwolle' on the 10th of June. So at the moment I'm training three to four times a week to expand my Aerobic Base.
 
 ## Running Historie
 
