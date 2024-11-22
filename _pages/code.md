@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: tags
 entries_layout: grid
 permalink: /code/
 title: "Code."
