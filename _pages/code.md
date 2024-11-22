@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 entries_layout: grid
 permalink: /code/
 title: "Code."
