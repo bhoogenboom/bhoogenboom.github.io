@@ -1,6 +1,5 @@
 ---
-layout: archive-taxonomy
-entries_layout: grid
+layout: category
 permalink: /code/
 title: "Code."
 header:
