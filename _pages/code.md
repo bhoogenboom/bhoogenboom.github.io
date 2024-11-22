@@ -1,5 +1,5 @@
 ---
-permalink: /code/
+permalink: /
 title: "Code."
 header:
   overlay_image: /assets/images/code-teaser.jpg
